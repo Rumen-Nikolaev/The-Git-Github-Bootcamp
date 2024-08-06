@@ -25,3 +25,9 @@
 - Torvalds wanted a version control system that was both super fast and free, unlike the existing tools. On April 3, 2005, he began working on his own VCS, which would become Git. In just a few days, he had implemented most of the basic functionality.
 
 - The first official Git release came a couple of months later. By 2020, 15 years later, over 90% of developers worldwide were using Git on a daily basis!
+
+## Git Vs Github
+
+- Git: Git is a distributed version control system used to track changes in source code during software development. It allows developers to manage code repositories, track modifications, collaborate with others, and maintain project history. Git operates locally on your machine, providing powerful tools for branching, merging, and managing different versions of your code.
+
+- GitHub: GitHub is a web-based platform that hosts Git repositories and provides additional collaboration features. It offers a graphical interface for managing repositories, tracking issues, and reviewing pull requests. GitHub is a popular service for sharing code and collaborating with other developers online, but it is built on top of Git, which means it uses Git as its underlying version control system.
