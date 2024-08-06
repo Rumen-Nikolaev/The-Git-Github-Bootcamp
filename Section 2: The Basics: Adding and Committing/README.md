@@ -17,17 +17,28 @@
 -  Is a command used to show the current state of your working directory and staging area. It tells you which files have been modified, which files are staged for the next commit, and which files are not being tracked by Git. Essentially, it helps you see what changes you’ve made and what is ready to be committed.
 
   ```sh
-   git --unit
+   git unit
    ```
 -  If you mean a basic component of Git, it generally refers to individual elements like commits, branches, or files that Git manages. For example, a "commit" is a Git unit that represents a snapshot of your project's changes at a specific point in time.
 
    ```sh
-   git --add
+   git add
    ```
 -  Is a command used to stage changes in your files for the next commit. When you modify files in your project, you need to use git add to tell Git which changes you want to include in your next commit. Essentially, it prepares your changes to be saved in the repository's history.
 
 ## Git Commit 
 
 - We use the git commit command to save changes from the staging area into the repository.
-- 
+
 - When making a commit, you need to provide a commit message that summarizes the changes and captures a snapshot of the work included in that commit.
+
+   ```sh
+   git commit
+   ```
+
+    ```sh
+   git commit -m "my message"
+   ```
+- git commit -m is a command used to create a commit with a message.
+  
+- The -m flag allows you to include a brief description of the changes directly in the command. For example, git commit -m "Add new feature" creates a commit with the message "Add new feature," summarizing the changes you've staged.
