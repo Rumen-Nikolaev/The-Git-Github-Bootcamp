@@ -9,8 +9,14 @@
 ```sh
    git --version
    ```
-- Is a command used to show the current state of your working directory and staging area. It tells you which files have been modified, which files are staged for the next commit, and which files are not being tracked by Git. Essentially, it helps you see what changes you’ve made and what is ready to be committed.
+- Is a command used to display the current version of Git installed on your system. When you run this command, it shows you the version number of Git, which can be useful for troubleshooting, ensuring compatibility, or verifying that Git is installed correctly
   
 ```sh
    git --status
    ```
+-  Is a command used to show the current state of your working directory and staging area. It tells you which files have been modified, which files are staged for the next commit, and which files are not being tracked by Git. Essentially, it helps you see what changes you’ve made and what is ready to be committed.
+
+  ```sh
+   git --unit
+   ```
+-  If you mean a basic component of Git, it generally refers to individual elements like commits, branches, or files that Git manages. For example, a "commit" is a Git unit that represents a snapshot of your project's changes at a specific point in time.
