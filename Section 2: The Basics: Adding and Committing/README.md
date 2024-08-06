@@ -43,7 +43,7 @@
   
 - The -m flag allows you to include a brief description of the changes directly in the command. For example, git commit -m "Add new feature" creates a commit with the message "Add new feature," summarizing the changes you've staged.
 
-- Ignoring files: You can tell Git which files and directories to ignore in a repository by using a .gitignore file. This is useful for files you don’t want to commit, such as:
+## Ignoring files: You can tell Git which files and directories to ignore in a repository by using a .gitignore file. This is useful for files you don’t want to commit, such as:
 
 - Secrets: API keys, credentials, etc.
 - Operating System files: Like .DS_Store on Mac.
