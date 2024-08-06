@@ -23,11 +23,11 @@
    git checkout HEAD <file>
    ```
 
-   - Another Option: Here’s another, shorter option to revert a file: instead of typing HEAD, you can use -- followed by the file you want to restore. For example, git checkout -- <filename>.
+- Another Option: Here’s another, shorter option to revert a file: instead of typing HEAD, you can use -- followed by the file you want to restore. For example, git checkout -- <filename>.
  
-     ```sh
-     git checkout -- <file>
-     ```
+    ```sh
+    git checkout -- <file>
+    ```
 
  ### Restore
 
