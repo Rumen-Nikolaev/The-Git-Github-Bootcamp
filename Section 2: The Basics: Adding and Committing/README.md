@@ -6,12 +6,12 @@
 
 - You can have multiple repositories on your machine, each with its own history and content, allowing you to manage different projects independently.
 
-```sh
+   ```sh
    git --version
    ```
 - Is a command used to display the current version of Git installed on your system. When you run this command, it shows you the version number of Git, which can be useful for troubleshooting, ensuring compatibility, or verifying that Git is installed correctly
   
-```sh
+   ```sh
    git --status
    ```
 -  Is a command used to show the current state of your working directory and staging area. It tells you which files have been modified, which files are staged for the next commit, and which files are not being tracked by Git. Essentially, it helps you see what changes you’ve made and what is ready to be committed.
