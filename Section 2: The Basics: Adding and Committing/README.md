@@ -28,4 +28,6 @@
 
 ## Git Commit 
 
-- We use the git commit command to save changes from the staging area into the repository. When making a commit, you need to provide a commit message that summarizes the changes and captures a snapshot of the work included in that commit.
+- We use the git commit command to save changes from the staging area into the repository.
+- 
+- When making a commit, you need to provide a commit message that summarizes the changes and captures a snapshot of the work included in that commit.
