@@ -1,6 +1,6 @@
 # Git - The World's most popular version control system
 
-- Git is what's known as a version control system (VCS). In fact, it's the world's most popular VCS.
+## Git is what's known as a version control system (VCS). In fact, it's the world's most popular VCS.
 
 - Essentially, version control is software that helps track and manage changes to a set of files over time.
 
