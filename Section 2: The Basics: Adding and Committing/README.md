@@ -20,3 +20,12 @@
    git --unit
    ```
 -  If you mean a basic component of Git, it generally refers to individual elements like commits, branches, or files that Git manages. For example, a "commit" is a Git unit that represents a snapshot of your project's changes at a specific point in time.
+
+   ```sh
+   git --add
+   ```
+-  Is a command used to stage changes in your files for the next commit. When you modify files in your project, you need to use git add to tell Git which changes you want to include in your next commit. Essentially, it prepares your changes to be saved in the repository's history.
+
+## Git Commit 
+
+- We use the git commit command to save changes from the staging area into the repository. When making a commit, you need to provide a commit message that summarizes the changes and captures a snapshot of the work included in that commit.
