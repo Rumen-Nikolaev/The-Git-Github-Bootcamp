@@ -1,6 +1,6 @@
 1. Create a new folder called Shopping:
 
-```sh
+   ```sh
    mkdir Shoppoing
    ```
 
