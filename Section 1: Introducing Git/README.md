@@ -21,3 +21,7 @@
 ## Linus Torvalds 
 
 - Linux Torvalds is the creator and main developer behind Linux and Git. In 2005, while working on Linux, he became frustrated with the available version control systems, finding them slow, closed-source, and often requiring payment.
+
+- Torvalds wanted a version control system that was both super fast and free, unlike the existing tools. On April 3, 2005, he began working on his own VCS, which would become Git. In just a few days, he had implemented most of the basic functionality.
+
+- The first official Git release came a couple of months later. By 2020, 15 years later, over 90% of developers worldwide were using Git on a daily basis!
