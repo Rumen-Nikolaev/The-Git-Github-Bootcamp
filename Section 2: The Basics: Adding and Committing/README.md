@@ -9,3 +9,8 @@
 ```sh
    git --version
    ```
+- Is a command used to show the current state of your working directory and staging area. It tells you which files have been modified, which files are staged for the next commit, and which files are not being tracked by Git. Essentially, it helps you see what changes you’ve made and what is ready to be committed.
+  
+```sh
+   git --status
+   ```
