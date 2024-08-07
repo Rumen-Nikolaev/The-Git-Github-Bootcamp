@@ -1,9 +1,10 @@
 # Basic Shell Commands
 
+### Make a directory
    ```sh
    mkdir
    ```
-Make a directory
+
 
    ```sh
    ls
