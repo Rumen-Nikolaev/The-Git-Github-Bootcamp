@@ -1,6 +1,13 @@
 # Basic Shell Commands
 
    ```sh
-   $ mkdir
+   mkdir
    ```
 Make a directory
+
+   ```sh
+   ls
+   ```
+List files and directories
+
+
