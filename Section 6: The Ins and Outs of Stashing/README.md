@@ -8,13 +8,13 @@
 
 - You can then return to these stashed changes later when you're ready.
 
-```sh
+   ```sh
    git stash
    ```
 
 - Use git stash pop to remove the most recently stashed changes from your stash and apply them back to your working directory.
-
-```sh
+ 
+   ```sh
    git stash pop
    ```
 
@@ -22,7 +22,7 @@
 
 - You can use git stash apply to apply the changes from your stash without removing them. This is useful if you want to apply the stashed changes to multiple branches.
 
- ```sh
+   ```sh
    git stash apply
    ```
 
@@ -30,7 +30,7 @@
 
 - You can add multiple stashes to the stack, with each new stash being added in the order you created them.
 
- ```sh
+   ```sh
    git stash
    git stash
    git shash
@@ -39,7 +39,7 @@
 ### To apply a specific stash, you can use git stash apply stash@{n}, where n is the index of the stash you want to apply. By default, git stash apply applies the most recent stash.
 
 
- ```sh
+   ```sh
    git stash apply stash@{2}
    ```
 
@@ -47,7 +47,7 @@
 
 - To delete a particular stash, you can use git stash drop <stash-id>
 
- ```sh
+   ```sh
    git stash drop stash@{2}
    ```
 
@@ -55,6 +55,6 @@
 
 - To clear out all stashes, run git stash clear
 
- ```sh
+   ```sh
    git stash clear
    ```
