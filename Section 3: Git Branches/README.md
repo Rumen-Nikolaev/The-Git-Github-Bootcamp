@@ -20,7 +20,7 @@
 
 ## Viewing Branches
 
-```sh
+   ```sh
    git branch
    ```
 
