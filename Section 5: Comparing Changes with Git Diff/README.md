@@ -2,7 +2,7 @@
 
 ## We can use the git diff command to view changes between commits, branches, files, our working directory, and more. We often use git diff alongside commands like git status and git log to get a better understanding of a repository and how it has changed over time.
 
-```sh
+   ```sh
    git diff
    ```
 
@@ -12,11 +12,11 @@
 
 - We can view the changes within a specific file by providing git diff with a filename
 
-```sh
+   ```sh
    git diff HEAD [filename]
    ```
 
-```sh
+   ```sh
    git diff --staged [filename]
    ```
 
@@ -24,18 +24,18 @@
 
 - To compare two commits, provide git diff with the commit hashes of the commits you want to compare. For example: git diff <commit-hash1> <commit-hash2>.
 
-```sh
+   ```sh
    git diff commit1..commit2
    ```
 
 - git diff HEAD lists all changes in the working tree since you last commit.
 
-```sh
+   ```sh
    git diff HEAD
    ```
 - git diff --staged (or --cached) lists the changes between the staging area and the last commit.
 
-```sh
+   ```sh
    git diff --staged
    git diff --cached
    ```
