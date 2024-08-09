@@ -28,7 +28,7 @@
 
 ## Creating Branches
 
-```sh
+   ```sh
    git branch <branch-name>
    ```
 
@@ -36,7 +36,7 @@
 
 ## Way of switching
 
-```sh
+   ```sh
    git checkout <branch-name>
    ```
 - Historically, we used git checkout <branch-name> to switch branches.
@@ -45,7 +45,7 @@
 
 ## Creating and Switching
 
-```sh
+   ```sh
    git switch -c <branch-name>
    ```
 - Use git switch -c flog to create a new branch and switch to it all in one go. The -c stands for "create".
