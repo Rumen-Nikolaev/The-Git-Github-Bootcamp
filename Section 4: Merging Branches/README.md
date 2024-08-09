@@ -6,7 +6,7 @@
 
 - Then, use the git merge <branch-name> command to merge changes from the specified branch into the current branch.
 
-```sh
+   ```sh
    git switch master
    git merge bugfix
    ```
